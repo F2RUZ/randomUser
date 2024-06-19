@@ -168,3 +168,17 @@ li {
 .dark-mode {
   background-color: rgb(149, 151, 149);
 }
+
+
+.container{
+  width: 1500px;
+  margin: 100px auto;
+  background-color: whitesmoke;
+}
+
+.users__cards{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+}
